@@ -1,7 +1,7 @@
-﻿using System.Data.SqlClient;
-using Bit.Core.Jobs;
+﻿using Bit.Core.Jobs;
 using Bit.Core.Settings;
 using Bit.Migrator;
+using Microsoft.Data.SqlClient;
 
 namespace Bit.Admin.HostedServices;
 
